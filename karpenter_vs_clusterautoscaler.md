@@ -99,3 +99,8 @@
 | Pod 기반 배치 효율 | 일반적 | 매우 효율적 |
 | AWS 종속성 | 낮음 | 높음 |
 
+
+## 4. Karpenter를 이용한 ondemand + spot 인스턴스 배포
+https://malwareanalysis.tistory.com/740
+
+
